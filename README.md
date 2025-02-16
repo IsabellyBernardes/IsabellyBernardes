@@ -19,4 +19,4 @@ Olá! Eu sou a Isabelly, estudante de Análise e Desenvolvimento de Sistemas pel
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsabellyBernardes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IsabellyBernardes)](https://git.io/streak-stats)
+
