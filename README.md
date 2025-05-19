@@ -6,10 +6,11 @@ Olá! Eu sou a Isabelly, estudante de Análise e Desenvolvimento de Sistemas pel
 ## 🛠 Habilidades
 
 - ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![PostgreSQL](https://img.shields.io/badge/postgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🔗 Veja um pouco mais
 
