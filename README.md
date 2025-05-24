@@ -1,5 +1,5 @@
 ## 💬Sobre mim
-Olá! Eu sou a Isabelly, estudante de Análise e Desenvolvimento de Sistemas pelo IFPE. Atualmente estudando um pouco mais sobre Python. 
+Olá! Eu sou a Isabelly, estudante de Análise e Desenvolvimento de Sistemas pelo IFPE. Atualmente estudando um pouco mais sobre Java. 
 
 
 
